@@ -1,0 +1,8 @@
+name: metrics_env
+channels:
+  - conda-forge
+dependencies:
+  - copier
+  - python
+  - hatch
+prefix: /Users/arafat/miniforge3/envs/metrics_env
